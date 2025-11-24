@@ -1,0 +1,112 @@
+1. Three Tier Neutral Shell (SFE-001)
+[L1]
+  <slot-A>
+[L2]
+  <slot-B>
+[L3]
+  <slot-C>
+
+2. Asymmetric Loop Scaffold (SFE-002)
+<start>
+  [node-1]
+    -> [node-3]
+  [node-2]
+    -> [node-1]
+<end>
+
+3. Split Vector Container (SFE-003)
+{section-alpha}
+{section-beta}
+---
+<merge-point>
+
+4. Quad Branch Frame (SFE-004)
+(root)
+  |- branch-1
+  |- branch-2
+  |- branch-3
+  |- branch-4
+
+5. Neutral Gradient Ladder (SFE-005)
+(step-0)
+(step-1)
+(step-2)
+(step-3)
+(step-4)
+
+6. Cross-Axis Skeleton (SFE-006)
+[x-axis]
+  <left>
+  <right>
+[y-axis]
+  <up>
+  <down>
+
+7. Hollow Block Pattern (SFE-007)
+[block-open]
+  <void-1>
+  <void-2>
+[block-close]
+
+8. Diagonal Shift Matrix (SFE-008)
+(r0 c0)
+(r1 c1)
+(r2 c2)
+(r3 c3)
+
+9. Cascade Shell (SFE-009)
+<top>
+  -> <mid>
+      -> <low>
+
+10. Reversible Spine Pattern (SFE-010)
+<forward>
+  [segment-1]
+  [segment-2]
+<reverse>
+
+11. Parallel Track Frame (SFE-011)
+track-A: |---|---|---|
+track-B: |---|---|---|
+
+12. Null Triangle Scaffold (SFE-012)
+< apex >
+  / \
+<left> <right>
+
+13. Linear Pivot Strip (SFE-013)
+[pivot-0]
+[pivot-1] <-> [pivot-2]
+[pivot-3]
+
+14. Tiered Container Grid (SFE-0014)
+[row-1] [row-2]
+[row-3] [row-4]
+
+15. Empty Cycle Pattern (SFE-015)
+(cycle-begin)
+  <slot-1/>
+  <slot-2/>
+  <slot-3/>
+(cycle-end)
+
+16. Modular Spine Shell (SFE-016)
+<<module-0>>
+<<module-1>>
+<<module-2>>
+
+17. Divided Arc Scafold (SFE-017)
+(arc-A) --- (junction) --- (arc-B)
+
+18. Boolean Shape Mask (SFE-018)
+[true-shape]
+[false-shape]
+
+19. Tier-Split Linear Plate (SFE-019)
+upper::[slot-U]
+lower::[slot-L]
+
+20. Neutral Hex Lattice (SFE- 020)
+⬡ ⬡ ⬡
+⬡ ⬡ ⬡
+ ⬡ ⬡ ⬡
