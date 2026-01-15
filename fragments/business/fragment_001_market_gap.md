@@ -18,3 +18,26 @@ Identify profitable gaps in crowded markets without scraping or paid data.
 ## Output Example
 Niche: AI Prompts  
 Gap: Non-technical solopreneurs needing plain-English workflows.
+# Fragment 001 – Silent Market Gap Detection
+
+## Objective
+Identify under-served micro-markets that require no customer interaction.
+
+## Method
+Scan niche forums, Reddit threads, comment sections, and AI tool reviews for:
+- Repeated complaints
+- Manual repetitive workflows
+- People asking “Is there a tool for this?”
+
+## Output Structure
+- Problem statement
+- Existing solutions and why they fail
+- Opportunity summary
+- Monetisation angle
+
+## Example Opportunity
+People asking how to batch-rename thousands of files inside AI datasets without coding.
+
+Potential product:
+$9 micro-tool or script pack.
+
